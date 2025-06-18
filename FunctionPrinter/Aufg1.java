@@ -18,7 +18,7 @@ public class Aufg1 {
     }
 
     public static void printFunction(IFunction func, String name){
-        System.out.println("Secilen fonksiyon: " + name);
+        System.out.println("Selected function: " + name);
         System.out.println("x\t\tf(x)");
         System.out.println("---------------------------");
         for(double x = 1.0; x <= 10.0; x++){
