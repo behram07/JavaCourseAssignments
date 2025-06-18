@@ -26,7 +26,7 @@ This small Java program demonstrates how to use Java's modern **`record`** featu
 ---
 
 ## 📄 Sample Output
-<img src="assets/person_sort_output.png" width="500"/>
+<img src="assets/sorting.png" width="500"/>
 
 ## 🚀 How to Run
 
