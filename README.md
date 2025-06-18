@@ -1,18 +1,40 @@
-# Java Course Assignments
+# 📘 JavaCourseAssignments
 
-This repository contains multiple Java assignments developed during my university programming course.  
-Each task demonstrates a specific concept such as object-oriented programming, interfaces, sorting, and functional programming.
+Welcome to **JavaCourseAssignments** — a personal repository containing my Java programming assignments from my university coursework. Each task in this repository demonstrates core concepts of Java and Object-Oriented Programming (OOP) through practical exercises.
 
-##  Contents
+---
 
-- `Aufgabe1_FunctionPrinter`: Print random mathematical functions using interfaces and lambdas.
-- `Aufgabe2_PersonSort`: Sort a list of people by ID and name using Comparator and records.
+## 🎯 Purpose of This Repository
 
-Each folder contains its own source files and README for explanation.
+This repository is designed to:
 
-##  Technologies
+- 💡 Practice and document Java concepts covered in class  
+- 🧠 Improve understanding of object-oriented programming and algorithmic thinking  
+- 🧪 Apply programming principles through structured assignments  
+- 📁 Keep a clean, organized record of learning progress
+
+---
+
+## 📚 Contents
+
+| Assignment       | Topic Focus                                  | Folder        |
+|------------------|-----------------------------------------------|----------------|
+| **Aufgabe 1**    | Interfaces, Function Abstraction, Lambda      | `/Aufgabe1/`   |
+| **Aufgabe 2**    | Java `record`, Array Sorting with Comparator  | `/Aufgabe2/`   |
+
+> Each folder includes:
+> - `Java source files (.java)`
+> - A dedicated `README.md` explaining the task
+> - Sample output (screenshots if available)
+
+---
+
+## 🛠 Technologies
 
 - Java 17+
-- OOP principles
-- Functional programming
-- Interfaces, records, Comparator
+- OOP Principles (Class, Interface, Encapsulation)
+- `record` Classes
+- Functional Interfaces & Lambdas
+- Collections (`List`, `ArrayList`)
+- Comparators & Sorting
+  
