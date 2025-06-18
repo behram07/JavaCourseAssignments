@@ -19,8 +19,8 @@ This repository is designed to:
 
 | Assignment       | Topic Focus                                  | Folder        |
 |------------------|-----------------------------------------------|----------------|
-| **Aufgabe 1**    | Interfaces, Function Abstraction, Lambda      | `/Aufgabe1/`   |
-| **Aufgabe 2**    | Java `record`, Array Sorting with Comparator  | `/Aufgabe2/`   |
+| **Aufgabe 1**    | Interfaces, Function Abstraction, Lambda      | `/FunctionPrinter/`   |
+| **Aufgabe 2**    | Java `record`, Array Sorting with Comparator  | `/PersonSort/`   |
 
 > Each folder includes:
 > - `Java source files (.java)`
