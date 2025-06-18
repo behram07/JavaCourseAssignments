@@ -29,25 +29,12 @@ Create a program that:
 
 Each time the program runs, a random function is selected. It then prints the result of that function applied to values from 1.0 to 10.0.
 
-### ▶️ Function: `e^x`
-<img src="assets/exp_output.png" width="300"/>
-
----
-
-### ▶️ Function: `√x`
-<img src="assets/sqrt_output.png" width="300"/>
-
----
-
-### ▶️ Function: `2x`
-<img src="assets/doublex_output.png" width="300"/>
-
----
-
-### ▶️ Function: `x^2`
-<img src="assets/square_output.png" width="300"/>
-
----
+<p align="center">
+  <img src="assets/exp_output.png" width="200"/>
+  <img src="assets/sqrt_output.png" width="200"/>
+  <img src="assets/doublex_output.png" width="200"/>
+  <img src="assets/square_output.png" width="200"/>
+</p>
 
 ## 💡 Key Concepts
 
