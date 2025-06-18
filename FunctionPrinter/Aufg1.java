@@ -19,10 +19,10 @@ public class Aufg1 {
 
     public static void printFunction(IFunction func, String name){
         System.out.println("Selected function: " + name);
-        System.out.println("x\t\tf(x)");
+        System.out.printf("%-6s %12s%n", "x", "f(x)");
         System.out.println("---------------------------");
         for(double x = 1.0; x <= 10.0; x++){
-            System.out.printf("%.1f\t\t%.4f%n", x, func.getVal(x));
+            System.out.printf("%-6.1f %12.4f%n", x, func.getVal(x));
         }
     }
 
