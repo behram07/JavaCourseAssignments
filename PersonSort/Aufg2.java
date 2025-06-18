@@ -19,7 +19,7 @@ public class Aufg2 {
 
         Arrays.sort(people, Comparator
                 .comparing(Person::name)
-                .thenComparing(Person::vorname)
+                .thenComparing(Person::firstname)
                 .thenComparingInt(Person::id));
         System.out.println("\nSort by name, first name and ID:Sort by ID: ");
         for(Person p : people)
