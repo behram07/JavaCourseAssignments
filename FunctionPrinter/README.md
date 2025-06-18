@@ -30,10 +30,10 @@ Create a program that:
 Each time the program runs, a random function is selected. It then prints the result of that function applied to values from 1.0 to 10.0.
 
 <p align="center">
-  <img src="assets/exp_output.png" width="200"/>
-  <img src="assets/sqrt_output.png" width="200"/>
-  <img src="assets/doublex_output.png" width="200"/>
-  <img src="assets/square_output.png" width="200"/>
+  <img src="assets/exp_output.png" width="200" height="150"/>
+  <img src="assets/sqrt_output.png" width="200" height="150"/>
+  <img src="assets/doublex_output.png" width="200" height="150"/>
+  <img src="assets/square_output.png" width="200" height="150"/>
 </p>
 
 ## 💡 Key Concepts
