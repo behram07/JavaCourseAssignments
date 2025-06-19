@@ -38,5 +38,5 @@ This repository is designed to:
 - Functional Interfaces & Lambdas
 - Collections (`List`, `ArrayList`)
 - Comparators & Sorting
-- **JavaFX GUI (TextArea, GridPane, FileChooser)**
-- **Vigenère Encryption Algorithm**
+- JavaFX GUI (TextArea, GridPane, FileChooser)
+- Vigenère Encryption Algorithm
