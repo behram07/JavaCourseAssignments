@@ -26,9 +26,12 @@ This is a JavaFX application for encrypting and decrypting text files using the 
 ---
 
 ## 📄 Sample Output
-<img src="assets/photo1.png" width="300" height="200"/>
-<img src="assets/photo2.png" width="300" height="200"/>
-<img src="assets/photo3.png" width="300" height="200"/>
+<p align = "center">
+  <img src="assets/photo1.png" width="300" height="200"/>
+  <img src="assets/photo2.png" width="300" height="200"/>
+  <img src="assets/photo3.png" width="300" height="200"/>
+</p>
+
 
 ----
 
