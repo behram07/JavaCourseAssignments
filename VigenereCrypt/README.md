@@ -2,7 +2,6 @@
 
 This is a JavaFX application for encrypting and decrypting text files using the **Vigenère cipher**.
 
----
 
 ## 🔑 Features
 
@@ -12,7 +11,6 @@ This is a JavaFX application for encrypting and decrypting text files using the 
 - 💾 Save the result (encrypted or decrypted) into a new `.txt` file
 - 🖥️ Simple JavaFX interface with GridPane layout
 
----
 
 ## 🚀 How to Use
 
@@ -23,7 +21,6 @@ This is a JavaFX application for encrypting and decrypting text files using the 
 5. The result will appear in the main text area
 6. Click **"Speichern"** (Save) to store the result in a text file
 
----
 
 ## 📄 Sample Output
 <p align = "center">
@@ -32,8 +29,6 @@ This is a JavaFX application for encrypting and decrypting text files using the 
   <img src="assets/photo3.png" width="300" height="200"/>
 </p>
 
-
-----
 
 ## 🧰 Requirements
 
