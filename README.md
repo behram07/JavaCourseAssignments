@@ -17,10 +17,11 @@ This repository is designed to:
 
 ## 📚 Contents
 
-| Assignment       | Topic Focus                                  | Folder        |
-|------------------|-----------------------------------------------|----------------|
-| **Aufgabe 1**    | Interfaces, Function Abstraction, Lambda      | `/FunctionPrinter/`   |
-| **Aufgabe 2**    | Java `record`, Array Sorting with Comparator  | `/PersonSort/`   |
+| Assignment       | Topic Focus                                  | Folder              |
+|------------------|-----------------------------------------------|---------------------|
+| **Aufgabe 1**    | Interfaces, Function Abstraction, Lambda      | `/FunctionPrinter/` |
+| **Aufgabe 2**    | Java `record`, Array Sorting with Comparator  | `/PersonSort/`      |
+| **Aufgabe 3**    | Vigenère Cipher with JavaFX GUI               | `/VigenereCrypt/`   |
 
 > Each folder includes:
 > - `Java source files (.java)`
@@ -37,4 +38,5 @@ This repository is designed to:
 - Functional Interfaces & Lambdas
 - Collections (`List`, `ArrayList`)
 - Comparators & Sorting
-  
+- **JavaFX GUI (TextArea, GridPane, FileChooser)**
+- **Vigenère Encryption Algorithm**
